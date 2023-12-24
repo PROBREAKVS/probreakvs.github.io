@@ -1,5 +1,8 @@
-<html>
-  <body>
-    <p>Hello World!</p>
-  </body>
-</html>
+{% extends "base.html" %}
+{% block content %}
+  <html>
+    <body>
+      <p>Hello World!</p>
+    </body>
+  <html>
+{% endblock content %}
