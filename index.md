@@ -1,8 +1,6 @@
-{% extends "base.html" %}
-{% block content %}
-  <html>
-    <body>
-      <p>Hello World!</p>
-    </body>
-  <html>
-{% endblock content %}
+<html>
+  <body>
+    <p>Hello World!</p>
+    <button name="button">button</button>
+  </body>
+<html>
