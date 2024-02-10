@@ -1,16 +1,8 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
  <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>background</title>
-  <style type="text/css">
-   div {
-    height: 200px; /* Высота блока */
-    width: 200px; /* Ширина блока */
-    overflow: auto; /* Добавляем полосы прокрутки */
-    padding-left: 15px; /* Отступ от текста слева */
-    background: url(images/hand.png) repeat-y #fc0; /* Цвет фона, 
-                                                    путь к фоновому изображению и 
-                                                    повторение фона по вертикали */
-   }
-  </style>
+  <h1>probreakvs</h1>  
  </head>
+ <body>
+  <center><h1>Meow!</h1></center>
+ </body>
+</html>
