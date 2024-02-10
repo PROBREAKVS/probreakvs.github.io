@@ -1,6 +1,16 @@
-<html>
-  <body>
-    <p>Hello World!</p>
-    <button name="button">button</button>
-  </body>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>background</title>
+  <style type="text/css">
+   div {
+    height: 200px; /* Высота блока */
+    width: 200px; /* Ширина блока */
+    overflow: auto; /* Добавляем полосы прокрутки */
+    padding-left: 15px; /* Отступ от текста слева */
+    background: url(images/hand.png) repeat-y #fc0; /* Цвет фона, 
+                                                    путь к фоновому изображению и 
+                                                    повторение фона по вертикали */
+   }
+  </style>
+ </head>
