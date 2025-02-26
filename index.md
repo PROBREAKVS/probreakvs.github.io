@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html>
+<html style="font-size: 16px;" lang="ru"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="icq, nina.chat, аська, скачать icq">
+    <meta name="description" content="Установите ICQ на компьютер и пользуйтесь видеочатом высокого качества, обменом сообщений и звонками на телефоны в любую страну мира.">
+    <title>ICQ</title>
+    <link rel="stylesheet" href="4f3ed15f3f220aacee16a3bcb28b18d79741e420/nicepage.css" media="screen">
+<link rel="stylesheet" href="nicepage-site.css" media="screen">
+<link rel="stylesheet" href="index.css" media="screen">
+    <script class="u-script" type="text/javascript" src="assets/jquery-3.5.1.min.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="4f3ed15f3f220aacee16a3bcb28b18d79741e420/nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 7.4.4, nicepage.com">
+    <link rel="canonical" href="icq.com">
+    
+    
+    
+    
+    
+    
+    
+    <link id="u-theme-google-font" rel="stylesheet" href="css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="css-1?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "ICQ-IM",
+		"url": "icq.com"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="ICQ">
+    <meta property="og:description" content="Установите ICQ на компьютер и пользуйтесь видеочатом высокого качества, обменом сообщений и звонками на телефоны в любую страну мира.">
+    <meta property="og:url" content="icq.com">
+    <meta property="og:type" content="website">
+  <script>
+    function gdprConfirmed() {
+        return true;
+    }
+    function dynamicLoadScript() {
+        var script = document.createElement('script');
+        script.src = 'https://www.google.com/recaptcha/api.js?render=6Lc2HDEiAAAAALpe1yqNarK-BmlyYl_MNPZx7_AB';
+        script.async = true;
+        document.body.appendChild(script);
+        script.onload = function() {
+            let event = new CustomEvent("recaptchaLoaded");
+            document.dispatchEvent(event);
+        };
+    }
+    function showRecaptchaError(error) {
+        error = error || '';
+        var formError = document.querySelector('.u-form-send-error');
+
+        if (formError) {
+            formError.innerText = 'Неверный владелец сайта: ' + error.replace(/:[\s\S]*/, '');
+            formError.style.display = 'block';
+        }
+
+        console.error('Error in grecaptcha: ', error);
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        var confirmButton = document.querySelector('.u-cookies-consent .u-button-confirm');
+        if (confirmButton) {
+            confirmButton.onclick = dynamicLoadScript;
+        }
+    });
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function(){
+            if (!gdprConfirmed()) {
+                return;
+            }
+            dynamicLoadScript();
+        });
+    </script>
+    <script>
+        document.addEventListener("recaptchaLoaded", function() {
+            if (!gdprConfirmed()) {
+                return;
+            }
+
+            (function (grecaptcha, sitekey, actions) {
+                var recaptcha = {
+                    execute: function (action, submitFormCb) {
+                        if (typeof grecaptcha === 'undefined' || typeof grecaptcha.execute !== 'function') {
+                            showRecaptchaError('reCAPTCHA script failed to load.');
+                            return;
+                        }
+
+                        grecaptcha.execute(sitekey, {action: action}).then((token) => {
+                            if (!token) {
+                                throw new Error('Empty token received from reCAPTCHA');
+                            }
+
+                            var forms = document.getElementsByTagName('form');
+
+                            for (var i = 0; i < forms.length; i++) {
+                                var response = forms[i].querySelector('[name="recaptchaResponse"]');
+
+                                if (!response) {
+                                    response = document.createElement('input');
+                                    response.setAttribute('type', 'hidden');
+                                    response.setAttribute('name', 'recaptchaResponse');
+                                    forms[i].appendChild(response);
+                                }
+
+                                response.value = token;
+                            }
+
+                            submitFormCb();
+                        }).catch((e) => {
+                            showRecaptchaError(e.message);
+                        });
+                    },
+
+                    executeContact: function (submitFormCb) {
+                        recaptcha.execute(actions['contact'], submitFormCb);
+                    }
+                };
+
+                window.recaptchaObject = recaptcha;
+            })(
+                grecaptcha,
+                
+                '6Lc2HDEiAAAAALpe1yqNarK-BmlyYl_MNPZx7_AB',
+                {'contact': 'contact'}
+            );
+        });
+    </script>
+</head>
+  <body data-home-page="ICQ-homepage.html" data-home-page-title="ICQ homepage" data-path-to-root="/" data-include-products="false" class="u-body u-xl-mode" data-lang="ru"><header class="u-border-1 u-border-grey-50 u-border-no-left u-border-no-right u-clearfix u-custom-color-8 u-header" id="header" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction=""><div class="u-clearfix u-sheet u-sheet-1">
+        <span class="u-align-left u-file-icon u-icon u-icon-1" data-href="https://nina.chat/"><img src="2aa1ae52/6458597/images/ICQlogo.PNG" alt=""></span>
+        <form action="#" class="u-align-left u-border-1 u-border-grey-30 u-radius u-search u-search-layout-icon-input u-search-left u-white u-search-1" data-search-token="no-license" data-href="/search/search.html" data-page-id="254691681">
+          <div class="u-search-overlay"></div>
+          <button class="u-search-button" type="submit">
+            <span class="u-icon-rounded u-radius u-search-icon u-spacing-10 u-text-grey-30 u-search-icon-1">
+              <svg class="u-svg-link" preserveaspectratio="xMidYMin slice" viewbox="0 0 56.966 56.966" style=""><use xlink:href="#svg-b443"></use></svg>
+              <svg class="u-svg-content" viewbox="0 0 56.966 56.966" x="0px" y="0px" id="svg-b443" style="enable-background:new 0 0 56.966 56.966;"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+	s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+	c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+	s-17-7.626-17-17S14.61,6,23.984,6z"></path></svg>
+            </span>
+          </button>
+          <input class="u-custom-font u-font-roboto u-search-input u-search-input-1" type="search" name="search" value="" placeholder="Search">
+        </form>
+        <a href="https://account.nina.chat/login" class="u-active-none u-border-2 u-border-custom-color-6 u-border-hover-custom-color-7 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-custom-font u-font-montserrat u-hover-none u-none u-text-custom-color-7 u-text-hover-custom-color-7 u-btn-1">Log In </a>
+        <a href="" class="u-border-1 u-border-active-custom-color-7 u-border-custom-color-7 u-border-hover-custom-color-7 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-custom-font u-font-montserrat u-none u-text-custom-color-7 u-text-hover-custom-color-7 u-btn-2">Password recovery </a>
+        <a href="https://nina.chat/support/contact/" class="u-active-none u-border-2 u-border-custom-color-7 u-border-hover-custom-color-7 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-custom-font u-font-montserrat u-hover-none u-none u-text-custom-color-7 u-text-hover-custom-color-7 u-btn-3">Contact</a>
+      </div></header>
+    <section class="u-clearfix u-custom-color-12 u-section-1" id="block-2">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <span class="u-align-left u-file-icon u-icon u-icon-1"><img src="2aa1ae52/6458597/images/s-content-win10.png" alt=""></span>
+        <h3 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">New ICQ for Windows </h3>
+        <p class="u-custom-font u-font-montserrat u-text u-text-grey-50 u-text-2">Simple way to communicate and nothing extra.<br>New design, free sound and video calls, group chats<br>and much more!<br>
+          <a href="https://web.archive.org/web/20180206042839/https://r.mail.ru/clo12053242/icq.mail.ru/exe.icq.com/icqsetup.exe" class="feature_section__btn u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1"></a>
+        </p>
+        <span class="u-file-icon u-icon u-icon-2" data-href="https://archive.org/download/8_20191226/icq_rfrset%20%282%29.exe"><img src="2aa1ae52/6458597/images/GetICQICON.PNG" alt=""></span>
+        <a href="https://nina.chat/connect/icq/" class="u-border-1 u-border-active-custom-color-7 u-border-hover-custom-color-7 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-none u-text-custom-color-7 u-btn-2">Before installing icq, read the connection guide</a>
+        <span class="u-align-left u-file-icon u-icon u-text-custom-color-7 u-icon-3"><img src="2aa1ae52/6458597/images/747329-c7a797e7.png" alt=""></span>
+        <span class="u-file-icon u-icon u-icon-4" data-href="/ICQ-for-android.html" data-page-id="270702813" title="ICQ for android"><img src="2aa1ae52/6458597/images/7c8528ed-9b67-3cfe-d8ce-e5b6407377fd.PNG" alt=""></span>
+        <a href="Old-Version.html" data-page-id="65970481" class="u-active-none u-border-2 u-border-custom-color-7 u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-custom-font u-font-montserrat u-hover-none u-none u-text-custom-color-7 u-text-hover-custom-color-7 u-btn-3" title="Old Version">You can also try an older version of ICQ </a>
+      </div>
+    </section>
+    <section class="u-clearfix u-custom-color-3 u-section-2" id="block-3">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <span class="u-file-icon u-icon u-icon-1"><img src="2aa1ae52/6458597/images/s-content-win110.png" alt=""></span>
+        <h3 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">Secure<br>video calls 
+        </h3>
+        <p class="u-custom-font u-font-montserrat u-text u-text-grey-50 u-text-2">All calls are always encrypted — your conversations will stay private. </p>
+      </div>
+    </section>
+    <section class="u-clearfix u-custom-color-12 u-section-3" id="block-4">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <span class="u-align-center u-file-icon u-icon u-icon-1"><img src="2aa1ae52/6458597/images/fffff.png" alt=""></span>
+        <h3 class="u-align-center u-custom-font u-font-montserrat u-text u-text-1">History synchronization </h3>
+        <h3 class="u-align-center u-custom-font u-font-montserrat u-text u-text-default u-text-2">Voice<br>messages 
+        </h3>
+        <h3 class="u-align-center u-custom-font u-font-montserrat u-text u-text-default u-text-3">Live<br>chats 
+        </h3>
+        <p class="u-align-center u-custom-font u-font-montserrat u-text u-text-grey-50 u-text-4">Easily c​onvert voice messages to text when you would rather read them. </p>
+        <p class="u-align-center u-custom-font u-font-montserrat u-text u-text-grey-50 u-text-5">Your conversation history in ICQ is now available on any of your devices. </p>
+        <p class="u-align-center u-custom-font u-font-montserrat u-text u-text-grey-50 u-text-6">You'll always find someone to talk to in our themed live chats. </p>
+      </div>
+    </section>
+    <section class="u-clearfix u-custom-color-3 u-section-4" id="block-5">
+      <div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
+        <span class="u-file-icon u-icon u-icon-1"><img src="2aa1ae52/6458597/images/dgdfgdgdgd.png" alt=""></span>
+        <h3 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">Bright stickers </h3>
+        <p class="u-custom-font u-font-montserrat u-text u-text-grey-50 u-text-2">Express your mood without words! ICQ for Windows has a large collection of free stickers for any occasion. </p>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-5" id="block-6">
+      <div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
+        <h4 class="u-custom-font u-font-montserrat u-hidden-xs u-text u-text-default u-text-1">Socials &amp; The Community </h4>
+        <h6 class="u-custom-font u-font-montserrat u-text u-text-grey-50 u-text-2"> Follow us and chat with the community.</h6>
+        <h5 class="u-custom-font u-font-montserrat u-text u-text-3">Our Socials </h5>
+        <p class="u-custom-font u-font-montserrat u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-4">
+          <span style="font-size: 0.75rem;">We're everywhere!<br>Keep in mind that these are our only official accounts.<br>We will never ask you for your password
+          </span>. 
+        </p>
+        <a href="" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-montserrat u-hover-custom-color-16 u-palette-2-base u-radius u-btn-1">Instagram </a>
+        <a href="https://twitter.com/escargotim" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-montserrat u-hover-palette-1-dark-1 u-palette-1-dark-1 u-radius u-btn-2">Twitter </a>
+        <a href="https://www.facebook.com/escargotim" class="u-border-none u-btn u-btn-round u-button-style u-custom-color-15 u-custom-font u-font-montserrat u-hover-palette-1-light-1 u-radius u-btn-3">Facebook<span style="font-size: 1.125rem;"></span>
+        </a>
+        <p class="u-custom-font u-font-montserrat u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-5">We are in no way affiliated with nor endorsed by Microsoft, AOL, Yahoo, or their parent companies. </p>
+      </div>
+    </section>
+    
+    
+    
+    <div class="u-active u-align-center u-block-60bd-1 u-carousel-item u-clearfix u-container-align-center u-footer u-grey-80"><div class="u-block-60bd-2 u-clearfix u-sheet"></div></div>
+  
+</body></html>
